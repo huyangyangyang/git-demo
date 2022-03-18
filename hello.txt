@@ -8,6 +8,6 @@ hello hy hello git!
 hello hy hello git!
 hello hy hello git!
 hello hy hello git!
-hello hy hello git!
-hello hy hello git! hot-fix test
+hello hy hello git! 
+hello hy hello git! hot-fix
 

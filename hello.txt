@@ -8,6 +8,6 @@ hello hy hello git!
 hello hy hello git!
 hello hy hello git!
 hello hy hello git!
-hello hy hello git! master test 
+hello hy hello git! master
 hello hy hello git!
 
